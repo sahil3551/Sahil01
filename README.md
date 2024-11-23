@@ -13,7 +13,7 @@ I’m passionate about creating beautiful, functional websites and constantly le
 - 🎓 Pursuing **BBA Computer Applications**  
 - 🌐 Focused on **Web Development**  
 - 💡 Love working with **HTML**, **CSS**, **JavaScript**, and exploring **React.js**  
-- 🎨 Interest in **UI/UX design**  
+
 
 ---
 
