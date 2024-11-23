@@ -55,14 +55,3 @@ Here are the tools and technologies I use:
 
 ---
 
-<style>
-h1, h3 {
-  color: #4CAF50;
-  text-align: center;
-}
-body {
-  font-family: 'Arial', sans-serif;
-  background-color: #f0f0f0;
-  color: #333;
-}
-</style>
